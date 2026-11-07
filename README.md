@@ -8,3 +8,13 @@ Tools Used
 - Git (Version Control)
 - VS Code (Code Editor)
 - GitHub (Remote Repository)
+
+## Experiment 2: Branching and Merging
+
+**Branch Name:** feature1
+
+**Student Name:** ISHAN WATTS
+
+**Date:** 07 November 2026
+
+This section is added to demonstrate Git branching and merging.
